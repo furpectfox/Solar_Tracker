@@ -1,0 +1,5 @@
+Solar Tracking Circuit 
+https://www.homemade-circuits.com/how-to-build-dual-solar-tracker-system/
+
+Window Comparator
+https://www.homemade-circuits.com/how-to-make-ic-lm339-circuits/
